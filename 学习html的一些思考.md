@@ -20,6 +20,7 @@
 <li>怎样才能使本文框内原有（灰色）文字点击即消失，不需要使用者手工删除呢？<ul>
 <li>需要在input的属性中添加onfocus="this.value=''" （<strong>方法来源网络</strong>）<pre><code>&lt;input type="text" value="这是一个文本输入框" onfocus="this.value=''"&gt;</code></pre>
 </li>
+<li>或者添加元素placeholder<pre><code>&lt;input type="text" placeholder="这是一个文本输入框"&gt;</code></pre>
 </ul>
 </li>
 </ul>
