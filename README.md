@@ -1,8 +1,12 @@
 # the-task-of-IFE
 百度前端技术学院 2017
-##小薇学院
+* [DEMO跳转地址](http://htmlpreview.github.io/)  
+
+##小薇学院  
+
 ##任务一：零基础HTML编码
-[任务链接](http://ife.baidu.com/course/detail/id/90)
+[任务链接](http://ife.baidu.com/course/detail/id/90)    
+[demo演示]（http://htmlpreview.github.io/?https://github.com/pyhui/the-task-of-IFE/blob/master/task_1_1_1.html）
 * 任务目的
   * 了解HTML的定义、概念、发展简史
   * 掌握常用HTML标签的含义、用法
