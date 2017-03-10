@@ -33,7 +33,7 @@
    ```
     
   ##任务三：三栏式布局
-[任务链接]（http://ife.baidu.com/course/detail/id/94）
+[任务链接](http://ife.baidu.com/course/detail/id/94)
 * 任务目的
   * 掌握HTML/CSS布局的概念  
   * 掌握盒模型的概念
