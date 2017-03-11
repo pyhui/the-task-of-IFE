@@ -3,7 +3,7 @@
 * [DEMO跳转地址](http://htmlpreview.github.io/)  
 [task-1-1-1 demo](http://htmlpreview.github.io/?https://github.com/pyhui/the-task-of-IFE/blob/master/task_1_1_1.html)
 [task-1-2-1 demo](http://htmlpreview.github.io/?https://github.com/pyhui/the-task-of-IFE/blob/master/task_1_2_1.html)
-
+[task-1-3-1 demo](http://htmlpreview.github.io/?https://github.com/pyhui/the-task-of-IFE/blob/master/task-1-3-1.html)
 ##小薇学院  
 
 ##任务一：零基础HTML编码
