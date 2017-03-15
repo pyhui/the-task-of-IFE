@@ -5,9 +5,9 @@
 [task-1-2-1 demo](http://htmlpreview.github.io/?https://github.com/pyhui/the-task-of-IFE/blob/master/task_1_2_1.html)
 [task-1-3-1 demo](http://htmlpreview.github.io/?https://github.com/pyhui/the-task-of-IFE/blob/master/task-1-3-1.html)
 
-##小薇学院  
+## 小薇学院  
 
-##任务一：零基础HTML编码
+## 任务一：零基础HTML编码
 [任务链接](http://ife.baidu.com/course/detail/id/90)    
 
 * 任务目的
@@ -16,7 +16,7 @@
   * 能够基于设计稿来合理规划HTML文档结构
   * 理解语义化，合理地使用HTML标签来构建页面  
   
-##任务二：零基础HTML及CSS编码（一）  
+## 任务二：零基础HTML及CSS编码（一）  
 [任务链接](http://ife.baidu.com/course/detail/id/92)  
 * 任务目的  
   * 针对设计稿样式进行合理的HTML架构，包括以下但不限于： 
@@ -33,10 +33,10 @@
     * 实践并掌握CSS的颜色、字体、背景、边框、盒模型、简单布局等样式的定义方式
    ```
     
-  ##任务三：三栏式布局
+ ## 任务三：三栏式布局
 [任务链接](http://ife.baidu.com/course/detail/id/94)
 * 任务目的
   * 掌握HTML/CSS布局的概念  
   * 掌握盒模型的概念
   * 掌握position与float的概念以及在布局时的用法
-  
+## 任务四：定位和居中问题
