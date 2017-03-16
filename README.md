@@ -39,4 +39,7 @@
   * 掌握HTML/CSS布局的概念  
   * 掌握盒模型的概念
   * 掌握position与float的概念以及在布局时的用法
-## 任务四：定位和居中问题
+## 任务四：定位和居中问题  
+[任务链接](http://ife.baidu.com/course/detail/id/95)
+## 任务五：零基础HTML及CSS编码（二）  
+[任务链接](http://ife.baidu.com/course/detail/id/96?t=1489649702681#learn)
