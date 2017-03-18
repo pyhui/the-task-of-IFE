@@ -9,11 +9,12 @@
 
 * **清除浮动**（清除浮动带来的影响）
   * 方法一:clear--(仍与外部接触） 
-     * 1.浮动元素底部加<div>插入`clear：both`样式  
+     * 1.浮动元素底部加div 插入`clear：both`样式  
      * 2.css :after伪元素（IE6/IE7不兼容）
         
   * 方法二:BFC（IE8+）/haslayout（IE6/IE7）--(包裹起来，形成封闭结构，不对外部产生影响)
      * 浮动元素父元素添加`overflow:hidden`样式  
-     `.clearfix:after{content:'';display:table;clear:both;}   (IE8)
-       .clearfix{*zoom:1;}   (IE6/IE7)
+  
+  * `.clearfix:after{content:'';display:table;clear:both;}` (IE8)
+       `.clearfix{*zoom:1;} `  (IE6/IE7)
        clearfix应用在包含浮动子元素的父元素上`
